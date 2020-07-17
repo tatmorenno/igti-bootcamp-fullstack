@@ -8,7 +8,7 @@
 
 # 💻 Info
 
-Bootcamp Fullsctack e uma formação online oferecida pelo Instituto de Gestão e Tecnologia da Informação, é um processo intensivo de estudo que habilita o profissional para atuar como desenvolvedor Full Stack, conhecendo as técnicas de construção de uma aplicação passando por todas as suas camadas lógicas - backend, frontend, persistência de dados NoSQL, controle de versionamento de código com Git e implantação em nuvem.
+O __Bootcamp Full-Stack__ é uma formação online oferecida pelo Instituto de Gestão e Tecnologia da Informação (IGTI) em um processo intensivo de estudo que habilita o profissional para atuar como Desenvolvedor Full-Stack conhecendo as técnicas de construção de uma aplicação passando por todas as suas camadas lógicas — __Back-End__, __Front-End__, __persistência de dados NoSQL__, controle de versionamento de código com __Git__ e __implantação em nuvem__.
 
 ## 🚀 Tecnologias abordadas:
 
@@ -29,4 +29,4 @@ Bootcamp Fullsctack e uma formação online oferecida pelo Instituto de Gestão 
 
 ## ⭐️ Desafio final
 
-# [Em construção]
+# [README Em construção] 🚧
