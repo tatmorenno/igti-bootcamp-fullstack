@@ -1,4 +1,5 @@
 <h1 align="center">
-  IGTI Bootcamp 
+  IGTI Bootcamp
+  <br/>
   <img src="https://www.igti.com.br/wp-content/uploads/2020/02/D.-Full-Stack.png" width="200px"/>
 </h1>
