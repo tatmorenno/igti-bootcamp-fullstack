@@ -6,7 +6,7 @@
   <img src="https://www.igti.com.br/wp-content/uploads/2020/02/D.-Full-Stack.png" width="200px"/>
 </h2>
 
-# 💻 Sobre o Bootcamp:
+# 💻 Info
 
 Bootcamp Fullsctack e uma formação online oferecida pelo Instituto de Gestão e Tecnologia da Informação, é um processo intensivo de estudo que habilita o profissional para atuar como desenvolvedor Full Stack, conhecendo as técnicas de construção de uma aplicação passando por todas as suas camadas lógicas - backend, frontend, persistência de dados NoSQL, controle de versionamento de código com Git e implantação em nuvem.
 
