@@ -23,6 +23,16 @@ O __Bootcamp Full-Stack__ é uma formação online oferecida pelo Instituto de G
 
 ## 🚀 Módulo 1 - Fundamentos
 
+- Introdução, instalação e configuração do Visual Studio Code (VSCode);
+- Instalação do Node.js;
+- Instalação da biblioteca live-server;
+- Noções de HTML e CSS;
+- Introdução ao JavaScript;
+- Integração do JavaScript com o HTML e CSS;
+- JavaScript básico;
+- Console, comentários, tipos primitivos, variáveis, API’s nativas de servidor e web;
+- Funções, estruturas de decisão, estruturas de repetição e manipulação de eventos.
+
 ## 🚀 Módulo 2 - Desenvolvimento de API’s
 
 ## 🚀 Módulo 3 - FrontEnd com React
