@@ -17,8 +17,6 @@ O __Bootcamp Full-Stack__ é uma formação online oferecida pelo Instituto de G
 - [ReactJs](https://reactjs.org/);
 - [MongoDB](https://www.mongodb.com/);
 - [MongoDB Atlas](https://www.mongodb.com/);
-- [Git](https://git-scm.com/);
-- [GitHub](https://github.com/);
 - [Heroku](https://www.heroku.com/).
 
 ## 🚀 Módulo 1 - Fundamentos
@@ -39,4 +37,4 @@ O __Bootcamp Full-Stack__ é uma formação online oferecida pelo Instituto de G
 
 ## ⭐️ Desafio final
 
-# [README Em construção] 🚧
+# [README em construção] 🚧
