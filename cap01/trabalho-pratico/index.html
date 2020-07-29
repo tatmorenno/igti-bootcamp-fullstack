@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Primeiro Trabalho Prático IGTI</title>
+</head>
+<body>
+	<h1>Mudar o Background Color via Range</h1>
+	<h2>Selecione a sua cor <span id="colorOutput"></span></h2>
+
+	<label>(R) Vermelho:</label>
+	<input type="range" id="rangeRed" value="0" min="0" max="255">
+
+	<label>(G) Verde:</label>
+	<input type="range" id="rangeGreen" value="0" min="0" max="255">
+
+	<label>(B) Azul:</label>
+	<input type="range" id="rangeBlue" value="0" min="0" max="255">
+
+<script type="text/javascript">
+	function changeColor() {
+		let red = document.getElementById('rangeRed').value;
+		let green = document.getElementById('rangeGreen').value;
+		let blue = document.getElementById('rangeBlue').value;
+		let color = 'rgb(' + red + ',' + green ',' + blue + ')';
+		document.body.style.backgroundColor = color;
+		document.getElementById('colorOutput').innerHTML = ': ' + color;
+	}
+
+	document.getElementById('rangeRed').addEventListener('input',changeColor);
+	document.getElementById('rangeGreen').addEventListener('input',changeColor);
+	document.getElementById('rangeBlue').addEventListener('input',changeColor);
+	
+</script>
+</body>
+</html>
